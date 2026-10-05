@@ -12,7 +12,7 @@ A machine learning project that predicts whether a Telco customer is likely to l
 
 ## Run it
 
-From the project directory, install the notebook dependencies:
+From the project directory, install the notebook dependencies which are these :
 
 ```bash
 python -m pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn xgboost jupyter
